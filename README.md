@@ -5,6 +5,8 @@
 [![average time to resolve an issue](http://isitmaintained.com/badge/resolution/alibaba/canal.svg)](http://isitmaintained.com/project/alibaba/canal "average time to resolve an issue")
 [![percentage of issues still open](http://isitmaintained.com/badge/open/alibaba/canal.svg)](http://isitmaintained.com/project/alibaba/canal "percentage of issues still open")
 
+## 主数据系统存储在mysql中的数据同步数据到项目端系统和企业端系统的mysql数据库总，使用该插件进行同步，可以指定同步某个表，或者某个表的部分字段。
+
 ## 简介
 
 ![](https://img-blog.csdnimg.cn/20191104101735947.png)
